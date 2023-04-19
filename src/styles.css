@@ -1,0 +1,26 @@
+body {
+  background-color: #193360;
+}
+
+.hero {
+  background-color: #b5d3e2;
+  color: #5d1543;
+  font-family: "Italiana", sans-serif;
+  margin: 80px 20px;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 200px;
+}
+
+.skills {
+  color: #f1a038;
+  font-family: "Gotu";
+  margin: 5px 20px;
+}
+
+.featured {
+  background-color: #5d1543;
+  color: #cf7b85;
+}
